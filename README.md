@@ -1,6 +1,8 @@
 # Minecraft Projects
 
-Minecraft mods and resource packs by [EnderNoch](https://github.com/EnderNoch), for Minecraft Java Edition 26.3. Each one does one small thing and stays close to vanilla.
+Minecraft mods and resource packs by [EnderNoch](https://github.com/EnderNoch), for Minecraft
+Java Edition 26.3. Each one does one small thing, stays close to vanilla and is tested in the
+game before it goes out.
 
 *[Po polsku niżej.](#po-polsku)*
 
@@ -11,7 +13,14 @@ Minecraft mods and resource packs by [EnderNoch](https://github.com/EnderNoch), 
 
 ## Installing
 
-Get each project from its Modrinth page: the Modrinth App, Prism Launcher and other launchers install it with one click. The mod needs [Fabric Loader](https://fabricmc.net/use/); the resource pack goes into the `resourcepacks` folder.
+Each project is on Modrinth: in the Modrinth App or Prism Launcher, search for its name and click
+**Install**, or download the file from its Modrinth page. Mods need a profile with
+[Fabric Loader](https://fabricmc.net/use/) and go into the `mods` folder; resource packs go,
+still zipped, into the `resourcepacks` folder and are turned on in **Options → Resource Packs**.
+
+## License
+
+Each project has its own license, see its repository.
 
 Not official Minecraft products. Not approved by or associated with Mojang or Microsoft.
 
@@ -19,11 +28,20 @@ Not official Minecraft products. Not approved by or associated with Mojang or Mi
 
 ## Po polsku
 
-Mody i paczki zasobów do Minecraft Java Edition 26.3 od EnderNoch. Każdy robi jedną małą rzecz i trzyma się wyglądu vanilli.
+Mody i paczki zasobów do Minecraft Java Edition 26.3 od EnderNoch. Każdy robi jedną małą rzecz,
+trzyma się wyglądu vanilli i jest sprawdzony w grze, zanim trafi do sieci.
 
-- **[Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar)** (mod Fabric) — chowa logo Mojang Studios na ekranach ładowania i przesuwa pasek ładowania na środek ekranu. Działa tylko po stronie klienta, potrzebuje samego Fabric Loadera.
+- **[Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar)** (mod Fabric) —
+  chowa logo Mojang Studios na ekranach ładowania i przesuwa pasek ładowania na środek ekranu.
+  Działa tylko po stronie klienta, potrzebuje samego Fabric Loadera.
   [Modrinth](https://modrinth.com/mod/clb)
-- **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)** (paczka zasobów) — cały tekst w grze rysowany czcionką Monocraft w stylu Minecrafta, co do piksela na siatce vanilli.
+- **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)** (paczka zasobów) — cały tekst
+  w grze rysowany czcionką Monocraft w stylu Minecrafta, co do piksela na siatce vanilli.
   [Modrinth](https://modrinth.com/resourcepack/monocraft-font)
 
-Instalacja: pobierz projekt ze strony na Modrinth — Modrinth App, Prism Launcher i inne launchery instalują go jednym kliknięciem. Mod wymaga [Fabric Loadera](https://fabricmc.net/use/), paczka zasobów trafia do folderu `resourcepacks`.
+Instalacja: każdy projekt jest na Modrinth — w Modrinth App albo Prism Launcherze wyszukaj nazwę
+i kliknij **Install** albo pobierz plik ze strony projektu. Mody wymagają profilu z
+[Fabric Loaderem](https://fabricmc.net/use/) i trafiają do folderu `mods`; paczki zasobów, bez
+rozpakowywania, do folderu `resourcepacks`, a włącza się je w **Opcje → Paczki zasobów**.
+
+Licencja: każdy projekt ma własną, opisaną w jego repozytorium.
