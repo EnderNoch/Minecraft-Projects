@@ -10,6 +10,7 @@ game before it goes out.
 | :---: | --- | --- | :---: |
 | <img src="images/centered-loading-bar-icon.png" width="96" alt=""> | **[Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar)**<br>Fabric mod | Hides the Mojang Studios logo on loading screens and moves the loading bar to the middle of the screen. Client-side, needs only Fabric Loader.<br>[Modrinth](https://modrinth.com/mod/clb) | <img src="images/centered-loading-bar.png" width="200" alt="Centered Loading Bar"> |
 | <img src="images/monocraft-font-icon.png" width="96" alt=""> | **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)**<br>Resource pack | Draws all of the game's text in Monocraft, a Minecraft-style monospaced font, pixel-exact on the vanilla grid.<br>[Modrinth](https://modrinth.com/resourcepack/monocraft-font) | <img src="images/monocraft-font.png" width="200" alt="Monocraft Font"> |
+| <img src="images/bedrock-breaking-animation-icon.png" width="96" alt=""> | **[Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation)**<br>Resource pack | Draws the cracks on a block you are breaking the way Bedrock Edition does: dark cracks that cut into the block, also with Improved Transparency.<br>[Modrinth](https://modrinth.com/resourcepack/bedrock-breaking-animation) | <img src="images/bedrock-breaking-animation.png" width="200" alt="Bedrock Breaking Animation"> |
 
 ## Installing
 
@@ -38,6 +39,10 @@ trzyma się wyglądu vanilli i jest sprawdzony w grze, zanim trafi do sieci.
 - **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)** (paczka zasobów) — cały tekst
   w grze rysowany czcionką Monocraft w stylu Minecrafta, co do piksela na siatce vanilli.
   [Modrinth](https://modrinth.com/resourcepack/monocraft-font)
+- **[Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation)** (paczka
+  zasobów) — pęknięcia na niszczonym bloku rysowane jak w Bedrock Edition: ciemne rysy wcięte
+  w blok, także z opcją Ulepszona przejrzystość.
+  [Modrinth](https://modrinth.com/resourcepack/bedrock-breaking-animation)
 
 Instalacja: każdy projekt jest na Modrinth — w Modrinth App albo Prism Launcherze wyszukaj nazwę
 i kliknij **Install** albo pobierz plik ze strony projektu. Mody wymagają profilu z
