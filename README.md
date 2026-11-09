@@ -32,17 +32,11 @@ Not official Minecraft products. Not approved by or associated with Mojang or Mi
 Mody i paczki zasobów do Minecraft Java Edition 26.3 od EnderNoch. Każdy robi jedną małą rzecz,
 trzyma się wyglądu vanilli i jest sprawdzony w grze, zanim trafi do sieci.
 
-- **[Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar)** (mod Fabric) —
-  chowa logo Mojang Studios na ekranach ładowania i przesuwa pasek ładowania na środek ekranu.
-  Działa tylko po stronie klienta, potrzebuje samego Fabric Loadera.
-  [Modrinth](https://modrinth.com/mod/clb)
-- **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)** (paczka zasobów) — cały tekst
-  w grze rysowany czcionką Monocraft w stylu Minecrafta, co do piksela na siatce vanilli.
-  [Modrinth](https://modrinth.com/resourcepack/monocraft-font)
-- **[Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation)** (paczka
-  zasobów) — pęknięcia na niszczonym bloku rysowane jak w Bedrock Edition: ciemne rysy wcięte
-  w blok, także z opcją Ulepszona przejrzystość.
-  [Modrinth](https://modrinth.com/resourcepack/bedrock-breaking-animation)
+| | Projekt | Co robi | |
+| :---: | --- | --- | :---: |
+| <img src="images/centered-loading-bar-icon.png" width="96" alt=""> | **[Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar)**<br>mod Fabric | Chowa logo Mojang Studios na ekranach ładowania i przesuwa pasek ładowania na środek ekranu. Działa tylko po stronie klienta, potrzebuje samego Fabric Loadera.<br>[Modrinth](https://modrinth.com/mod/clb) | <img src="images/centered-loading-bar.png" width="200" alt="Centered Loading Bar"> |
+| <img src="images/monocraft-font-icon.png" width="96" alt=""> | **[Monocraft Font](https://github.com/EnderNoch/Monocraft-Font)**<br>paczka zasobów | Cały tekst w grze rysowany czcionką Monocraft w stylu Minecrafta, co do piksela na siatce vanilli.<br>[Modrinth](https://modrinth.com/resourcepack/monocraft-font) | <img src="images/monocraft-font.png" width="200" alt="Monocraft Font"> |
+| <img src="images/bedrock-breaking-animation-icon.png" width="96" alt=""> | **[Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation)**<br>paczka zasobów | Pęknięcia na niszczonym bloku rysowane jak w Bedrock Edition: ciemne rysy wcięte w blok, także z opcją Ulepszona przejrzystość.<br>[Modrinth](https://modrinth.com/resourcepack/bedrock-breaking-animation) | <img src="images/bedrock-breaking-animation.png" width="200" alt="Bedrock Breaking Animation"> |
 
 Instalacja: każdy projekt jest na Modrinth — w Modrinth App albo Prism Launcherze wyszukaj nazwę
 i kliknij **Install** albo pobierz plik ze strony projektu. Mody wymagają profilu z
